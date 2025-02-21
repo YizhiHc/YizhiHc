@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m recently graduated from **the University at Buffalo (SUNY) with a Bachelor's degree in Computer Science.**
 
-- 📝 Checkout My [Blog](https://yizhihc.github.io/17hui-website/)
+- 📝 Checkout My [Blog](https://yizhihc.github.io/17hui/)
 
 - 🤝 I’m looking for **Web/App development Offer (Work Sponsorship)**
 
