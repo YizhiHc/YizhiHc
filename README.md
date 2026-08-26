@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yizhihc" alt="yizhihc" /></a> </p>
 
-- 👨‍💻 I’m recently graduated from **the University at Buffalo (SUNY) with a Bachelor's degree in Computer Science.**
+- 👨‍💻 I’m graduated from **the University at Buffalo (SUNY) with a Bachelor's degree in Computer Science.**
 
 - 📝 Checkout My [Blog](https://yizhihc.github.io/17hui/)
 
